@@ -1,0 +1,33 @@
+#nav-bar {
+  list-style-type: none;
+	text-align:center;
+	margin: 0 auto;
+  padding: 0;
+}
+
+#nav-bar a{
+  text-decoration: inherit;
+  color: inherit;
+	display:inline-block;
+}
+
+#nav-bar a.active{
+  color: #C8C8C8;
+}
+
+#nav-item {
+	display:inline;
+	margin: 5px;
+}
+
+#title-bar{
+	-webkit-app-region: drag;
+}
+
+.percent-raised {
+  color: #3cd483;
+}
+
+.percent-fallen {
+  color: #d64d96;
+}
