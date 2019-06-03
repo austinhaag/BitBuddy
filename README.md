@@ -1,7 +1,7 @@
 
 ## Overview
 
-BitBuddy is an application that assists cryptocurrency investors stay up to date on the latest data. The core sections of this program are market data, news, technical analysis, a portfolio, and a charting platform provided by TradingView.
+BitBuddy is an application that helps investors stay up to date on the latest cryptocurrency data. The core sections of this program are market data, news, technical analysis, a portfolio, and a charting platform provided by TradingView.
 
 ## Installation
 
