@@ -54,7 +54,7 @@
     "electron-compile": "latest",
     "electron-devtools-installer": "^2.2.4",
     "electron-squirrel-startup": "^1.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "prop-types": "^15.7.2",
     "react": "latest",
     "react-dom": "latest",
