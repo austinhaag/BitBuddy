@@ -50,7 +50,7 @@
   "dependencies": {
     "@material-ui/core": "latest",
     "@material-ui/icons": "latest",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "electron-compile": "latest",
     "electron-devtools-installer": "^2.2.4",
     "electron-squirrel-startup": "^1.0.0",
